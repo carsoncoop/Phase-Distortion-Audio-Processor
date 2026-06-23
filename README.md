@@ -4,7 +4,7 @@ A VST3 audio effect plugin built with JUCE and C++ that applies phase distortion
 
 ## Overview
 
-This project explores digital signal processing concepts through the development of a custom audio effects plugin. The plugin is designed to manipulate the phase characteristics of incoming audio to create unique harmonic and timbral changes.
+This project explores digital signal processing concepts through the development of a custom audio effects plugin. The plugin is designed to manipulate the phase characteristics of incoming buffers to create unique harmonic and timbral changes useful in electronic music production.
 
 ## Technologies
 
